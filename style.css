@@ -1,6 +1,6 @@
 #Apps {
     width: 1500px;
-    height: 700px;
+    height: 1000px;
     background-color: aqua;
 }
 
@@ -21,7 +21,7 @@ img:hover {
 
 #Games {
     width: 1500px;
-    height: 400px;
+    height: 800px;
     background-color: coral;
 }
 
